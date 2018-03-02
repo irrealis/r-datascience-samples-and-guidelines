@@ -8,3 +8,22 @@ Write R code to download and read the table stored in "https://raw.githubusercon
 u <- "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/03-rw-flat-files/cars.txt"
 cars <- read.table(u, header = T)
 ```
+
+Write R code to load the builtin "`cars`" dataset, then write the table into "cars.txt" without row names.
+```R
+data("cars")
+write.table(cars, "cars.txt", row.names = F)
+```
+
+Write R code to download and read the table stored in "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/03-rw-flat-files/cars.csv" into variable "`cars`".
+```R
+u <- "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/03-rw-flat-files/cars.csv"
+cars <- read.csv(u)
+```
+
+Write R code to load the builtin "`cars`" dataset, then write the table into "cars.csv" without row names.
+```R
+data("cars")
+write.csv(cars, "cars.csv", row.names = F)
+```
+
