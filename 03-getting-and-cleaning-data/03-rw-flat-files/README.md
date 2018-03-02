@@ -3,4 +3,8 @@
 ### 03 Reading and Writing Flat Files
 #### Exercises:
 
-Write R code to download and read the table stored in "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/03-rw-flat-files/cars.txt" into variable "`cars`".
+Write R code to download and read the table stored in "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/03-rw-flat-files/cars.txt" into variable "`cars`". Note that "cars.txt" contains headers.
+```R
+u <- "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/03-rw-flat-files/cars.txt"
+cars <- read.table(u, header = T)
+```
