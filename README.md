@@ -1,2 +1,2 @@
-# r_sample_code
+# r-sample-code
 R sample code
