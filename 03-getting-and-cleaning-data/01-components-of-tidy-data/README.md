@@ -2,6 +2,8 @@
 
 ## 01 Components of Tidy Data
 
+#### Questions and Answers:
+
 What are the components of reproducible data?
 - Original, *raw data*.
 - Processed, *tidy data*.
