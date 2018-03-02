@@ -1,7 +1,6 @@
-# 03 Getting and Cleaning Data
-
-## 01 Components of Tidy Data
-
+# R Data-Science Samples and Guidelines
+## 03 Getting and Cleaning Data
+### 01 Components of Tidy Data
 #### Questions and Answers:
 
 What are the components of reproducible data?
