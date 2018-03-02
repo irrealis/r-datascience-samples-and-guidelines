@@ -3,7 +3,7 @@
 #### Topics:
 
 - [01 Components of Tidy Data](01-components-of-tidy-data/README.md)
-- 02 Downloading Files
+- [02 Downloading Files](02-downloading-data/README.md)
 - 03 Reading Local Flat Files
 - 04 Reading Excel Files
 - 05 Reading XML
