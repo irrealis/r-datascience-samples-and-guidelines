@@ -4,8 +4,8 @@
 #### Questions and Answers:
 
 What are the components of reproducible data?
-- Original, *raw data*.
-- Processed, *tidy data*.
+- Original *raw data*.
+- Processed *tidy data*.
 - *Code book* describing tidy data.
 - *Reproducible instructions* for processing raw to tidy.
 
