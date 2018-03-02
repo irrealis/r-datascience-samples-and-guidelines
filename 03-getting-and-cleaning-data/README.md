@@ -4,7 +4,7 @@
 
 - [01 Components of Tidy Data](01-components-of-tidy-data/README.md)
 - [02 Downloading Files](02-downloading-files/README.md)
-- 03 Reading Local Flat Files
+- [03 Reading and Writing Flat Files](03-rw-flat-files)
 - 04 Reading Excel Files
 - 05 Reading XML
 - 06 Reading JSON
