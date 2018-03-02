@@ -1,5 +1,5 @@
-# (R Data-Science Samples and Guidelines)[../../README.md]
-## (03 Getting and Cleaning Data)[../README.md]
+# R Data-Science Samples and Guidelines
+## 03 Getting and Cleaning Data
 ### 01 Components of Tidy Data
 #### Questions and Answers:
 

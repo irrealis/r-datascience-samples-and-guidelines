@@ -1,4 +1,4 @@
-# (R Data-Science Samples and Guidelines)[../README.md]
+# R Data-Science Samples and Guidelines
 ## 03 Getting and Cleaning Data
 #### Topics:
 
