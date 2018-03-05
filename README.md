@@ -7,3 +7,4 @@ courses on Coursera. (See https://www.coursera.org/specializations/jhu-data-scie
 #### Courses:
 
 - [03 Getting and Cleaning Data](03-getting-and-cleaning-data/README.md)
+- [04 Exploratory Data Analysis](04-exploratory-data-analysis/README.md)
