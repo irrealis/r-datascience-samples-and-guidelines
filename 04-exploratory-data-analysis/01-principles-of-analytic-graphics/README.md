@@ -7,4 +7,4 @@ What are the basic principles of analytic graphics?
 1. Show comparisons.
 2. Show causality, mechanism, explanation, systematic structure.
 3. Show multivariate data.
-4. 
+4.
