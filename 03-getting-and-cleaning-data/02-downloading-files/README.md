@@ -13,7 +13,7 @@ Write R code to create directory "fubar".
 dir.create("fubar")
 ```
 
-Write R code to download "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/02-downloading-files/README.md" to file "README.md".
+Write R code to download "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/02-downloading-files/README.md" to file "README.md".  
 ```R
 u <- "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guidelines/master/03-getting-and-cleaning-data/02-downloading-files/README.md"
 download.file(url = u, destfile = "README.md", method = "curl")

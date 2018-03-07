@@ -26,5 +26,5 @@ Avoid putting related info into graphics or tables in different places that are 
 Describe the principle of analytic graphics, to "describe/document credible evidence with appropriate labels/scales/sources/code".
 Make the analysis easy to understand, using clear labels and scales, and indicating and providing sources (how to obtain raw data) and code (used to generate the graphics).
 
-Describe the principle of analytic graphics, that "content is king".
+Describe the principle of analytic graphics, that "content is king".  
 Analytical presentations stand or fall depending on data quality/integrity/relevance. Without an interesting story to tell, no presentation will make it interesting.

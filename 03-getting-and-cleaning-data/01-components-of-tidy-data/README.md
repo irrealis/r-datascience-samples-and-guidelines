@@ -30,11 +30,10 @@ What must a code book include?
 - Info about summary choices made.
 - Reason for any censored data.
 
-What criteria must reproducible instructions meet?
+What criteria must reproducible instructions meet?  
 - Raw input, tidy output.
 - Ideally, provides analysis script taking no parameters.
 - Otherwise, provides specific instructions including:
   - Separate instructions and exact parameters for each sample and processing stage:
   - Where to obtain software.
   - Exact software and OS versions used.
-

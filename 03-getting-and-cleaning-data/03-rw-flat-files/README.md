@@ -33,9 +33,8 @@ u <- "https://raw.githubusercontent.com/irrealis/r-datascience-samples-and-guide
 cars <- read.csv(u)
 ```
 
-Write R code to load the builtin "`cars`" dataset, then write the table into "cars.csv2" without row names, using "`;`" as separator and "`,`" as decimal point.
+Write R code to load the builtin "`cars`" dataset, then write the table into "cars.csv2" without row names, using "`;`" as separator and "`,`" as decimal point.  
 ```R
 data("cars")
 write.csv2(cars, "cars.csv2", row.names = F)
 ```
-
