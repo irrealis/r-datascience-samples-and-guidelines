@@ -3,12 +3,12 @@
 ### 02 Downloading Files
 #### Exercises:
 
-Write R code to test whether directory "fubar" exists.
+Write R code to test whether directory "fubar" exists.  
 ```R
 file.exists("fubar")
 ```
 
-Write R code to create directory "fubar".
+Write R code to create directory "fubar".  
 ```R
 dir.create("fubar")
 ```

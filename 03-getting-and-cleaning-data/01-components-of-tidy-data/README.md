@@ -3,19 +3,19 @@
 ### 01 Components of Tidy Data
 #### Questions and Answers:
 
-What are the components of reproducible data?
+What are the components of reproducible data?  
 - Original *raw data*.
 - Processed *tidy data*.
 - *Code book* describing tidy data.
 - *Reproducible instructions* for processing raw to tidy.
 
-What criteria must raw data meet?
+What criteria must raw data meet?  
 - You ran no software on the raw data.
 - You did not manipulate any of the raw data.
 - You did not remove any of the raw data.
 - You did not add anything to the raw data (in particular, no summary).
 
-What criteria must tidy data meet?
+What criteria must tidy data meet?  
 - Each variable has descriptive name and forms a column.
 - Each observation forms a row.
 - Each type of observational unit forms a table and file.
@@ -24,7 +24,7 @@ What criteria must tidy data meet?
   - Missing/censored data is coded as "`NA`".
   - Censored data is coded as "`T`" in added "`Censored`" column.
 
-What must a code book include?
+What must a code book include?  
 - Variable names, data types, units.
 - Info about study design and data-collection procedures used.
 - Info about summary choices made.
