@@ -45,7 +45,9 @@ Barplots are good for summarizing categorical data.
 
 Write R code download and load the table at https://raw.githubusercontent.com/DataScienceSpecialization/courses/master/04_ExploratoryAnalysis/exploratoryGraphs/data/avgpm25.csv, with column classes ("numeric", "character", "factor", "numeric", "numeric"), storing the result in "`pollution`".  
 ```r
-pollution <- read.csv("https://raw.githubusercontent.com/DataScienceSpecialization/courses/master/04_ExploratoryAnalysis/exploratoryGraphs/data/avgpm25.csv", colClasses = c("numeric", "character", "factor", "numeric", "numeric"))
+u <- "https://raw.githubusercontent.com/DataScienceSpecialization/courses/master/04_ExploratoryAnalysis/exploratoryGraphs/data/avgpm25.csv"
+colClasses = c("numeric", "character", "factor", "numeric", "numeric")
+pollution <- read.csv(u, colClasses = colClasses)
 ```
 
 Write R code to compute a five-number summary of the U.S. EPA's annual mean fine particle pollution (PM2.5), given as a table named "`pollution`". (If needed, download from https://raw.githubusercontent.com/DataScienceSpecialization/courses/master/04_ExploratoryAnalysis/exploratoryGraphs/data/avgpm25.csv.)  
