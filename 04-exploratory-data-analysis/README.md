@@ -7,4 +7,4 @@
 - [03 Plotting Systems in R](03-plotting-systems-in-r)
 - 04 Base Plotting System (section due to redundancy)
 - 05 Base Plotting Demonstration (section due to redundancy)
-- [06 Graphics Devices in R]
+- [06 Graphics Devices in R](06-graphics-devices)
