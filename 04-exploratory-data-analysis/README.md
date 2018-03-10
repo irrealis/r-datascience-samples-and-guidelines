@@ -8,4 +8,4 @@
 - [04 Base Plotting System](04-base-plotting-system)
 - 05 Base Plotting Demonstration (skipped due to redundancy)
 - [06 Graphics Devices in R](06-graphics-devices)
-- [07 "`Lattice`" Plotting System](07-lattice-plotting-system)
+- [07 Lattice Plotting System](07-lattice-plotting-system)
