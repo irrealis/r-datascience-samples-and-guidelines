@@ -9,4 +9,4 @@
 - 05 Base Plotting Demonstration (skipped due to redundancy)
 - [06 Graphics Devices in R](06-graphics-devices)
 - [07 Lattice Plotting System](07-lattice-plotting-system)
-- [08 ggplot2 Plotting System](08-ggplot2-plotting-system)
+- [08 ggplot2 Plotting System - `qplot`](08-ggplot2-plotting-system-qplot)
