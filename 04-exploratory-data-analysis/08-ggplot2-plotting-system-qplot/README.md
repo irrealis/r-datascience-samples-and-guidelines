@@ -74,3 +74,23 @@ library(ggplot2)
 data(mpg)
 qplot(hwy, data = mpg, geom = "density", color = drv)
 ```
+
+
+Write R code to load the builtin "`mpg`" dataset, then plot the values of "`hwy`" in the order in which they occur in "`mpg`", separating "`drv`" by fill color, using "`qplot`" from the ggplot2 plotting system.  
+```r
+library(ggplot2)
+data(mpg)
+qplot(y = hwy, data = mpg, color = drv)
+```
+
+
+Write R code to load the builtin "`mpg`" dataset, then boxplot "`hwy`" versus "`mpg`", using "`qplot`" from the ggplot2 plotting system.  
+```r
+qplot(drv, hwy, data = mpg, geom = "boxplot")
+```
+
+
+Write R code to load the builtin "`mpg`" dataset, then boxplot "`hwy`" versus "`mpg`", separating "`manufacturer`" by color, using "`qplot`" from the ggplot2 plotting system.  
+```r
+qplot(drv, hwy, data = mpg, geom = "boxplot", color = manufacturer)
+```
