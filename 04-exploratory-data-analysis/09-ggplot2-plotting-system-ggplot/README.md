@@ -77,6 +77,13 @@ g + geom_point() + facet_grid(. ~ drv)
 ```
 
 
+Write R code to load the builtin "`mpg`" dataset, then plot a grid of conditional scatterplots of "`displ`" versus "`hwy`" conditioned on "`drv`" versus cylinder, including marginal sums, with "`year`" separated by color, using "`ggplot`" from the ggplot2 plotting system.  
+```r
+g <- ggplot(mpg, aes(displ, hwy, color = factor(year)))
+g + geom_point() + facet_grid(drv ~ cyl, margins = TRUE)
+```
+
+
 Write R code to load the builtin "`mpg`" dataset, then plot a column of conditional histograms of "`hwy`" conditioned on "`drv`", using "`ggplot`" from the ggplot2 plotting system.  
 ```r
 library(ggplot2)
@@ -116,4 +123,32 @@ g +
   labs(y = "Probability Density") +
   guides(color = guide_legend(title = "Drive Type")) +
   labs(title = "Highway Mileage Distributions")
+```
+
+
+Write R code to load the builtin "`mpg`" dataset, then plot the values of "`hwy`" in the order in which they occur in "`mpg`", separating "`drv`" by fill color, using "`ggplot`" from the ggplot2 plotting system.  
+```r
+library(ggplot2)
+data(mpg)
+# NOTE: The main reason to assign aesthetics in ggplot is to automatically
+# apply them to all geoms. Aesthetics can also be supplied in individual geoms.
+ggplot(mpg, aes(seq_along(hwy), hwy, color = drv)) + geom_point()
+# Visually identical result.
+ggplot(mpg, aes(seq_along(hwy), hwy)) + geom_point(aes(color = drv))
+# Visually identical result.
+ggplot(mpg) + geom_point(aes(seq_along(hwy), hwy, color = drv))
+```
+
+
+Write R code to load the builtin "`mpg`" dataset, then boxplot "`hwy`" versus "`mpg`", using "`ggplot`" from the ggplot2 plotting system.  
+```r
+g <- ggplot(mpg, aes(drv, hwy))
+g + geom_boxplot()
+```
+
+
+Write R code to load the builtin "`mpg`" dataset, then boxplot "`hwy`" versus "`mpg`", separating "`manufacturer`" by color, using "`ggplot`" from the ggplot2 plotting system.  
+```r
+g <- ggplot(mpg, aes(drv, hwy, color = manufacturer))
+g + geom_boxplot()
 ```
