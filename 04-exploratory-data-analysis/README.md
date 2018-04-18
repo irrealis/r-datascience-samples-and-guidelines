@@ -11,7 +11,8 @@
 - [07 Lattice Plotting System](07-lattice-plotting-system)
 - [08 ggplot2 Plotting System - `qplot`](08-ggplot2-plotting-system-qplot)
 - [09 ggplot2 Plotting System - `ggplot`](09-ggplot2-plotting-system-ggplot)
-- [10 Hierarchical Clustering]
+- [10 Hierarchical Clustering](10-hierarchical-clustering)
 - [11 K-Means Clustering]
-- [12 Dimension Reduction]
-- [13 Working with Color in R Plots]
+- [12 Dimension Reduction - SVD]
+- [13 Dimension Reduction - PCA]
+- [14 Working with Color in R Plots]
