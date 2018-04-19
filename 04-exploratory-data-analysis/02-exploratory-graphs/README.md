@@ -3,7 +3,7 @@
 ### 02 Exploratory Graphs
 #### Questions, Answers, Exercises:
 
-What are some advantages of exploratory plots?
+What are some advantages of exploratory plots?  
 - They're quick and dirty.
 - They quickly summarize data, highlighting broad features.
 - They explore basic questions/hypotheses (perhaps rule them out).
