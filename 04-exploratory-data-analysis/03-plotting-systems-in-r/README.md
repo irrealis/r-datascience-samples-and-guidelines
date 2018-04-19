@@ -22,34 +22,34 @@ What's the general procedure for plotting using the "`ggplot2`" system in R?
 
 What are pros and cons of the Base plotting system in R?  
 - Pros:
-  - Convenient "Artist's palette" model matches how we think of building plots and analyzing data.
-  - Simple series of R commands.
+    - Convenient "Artist's palette" model matches how we think of building plots and analyzing data.
+    - Simple series of R commands.
 - Cons:
-  - To be able to reconstruct, must keep track of all commands used.
-  - Can't go back once plot has started (i.e. to adjust margins).
-  - Hard to "translate" plots to other systems (no graphical "language").
+    - To be able to reconstruct, must keep track of all commands used.
+    - Can't go back once plot has started (i.e. to adjust margins).
+    - Hard to "translate" plots to other systems (no graphical "language").
 
 What are pros and cons of the "`lattice`" plotting system in R?  
 - Pros:
-  - Useful for conditioning plots: how Y changes with X across levels of Z.
-  - Good for making many many plots at once.
+    - Useful for conditioning plots: how Y changes with X across levels of Z.
+    - Good for making many many plots at once.
 - Cons:
-  - Requires use of conditioning model.
-  - Can be awkward to specify entire plot in one call.
-  - Annotation can be nonintuitive.
-  - Use of panel functions and subscripts is unwieldy, requires intense prep.
-  - Cannot "add" to plot once created.
+    - Requires use of conditioning model.
+    - Can be awkward to specify entire plot in one call.
+    - Annotation can be nonintuitive.
+    - Use of panel functions and subscripts is unwieldy, requires intense prep.
+    - Cannot "add" to plot once created.
 
 What are pros and cons of the "`lattice`" plotting system in R?  
 - Pros:
-  - Default mode makes many choices for your.
-  - Highly customizable.
-  - Automatically deals with spacings, text, titles.
-  - Allows annotation by adding to a plot.
-  - Superficial similarity to "`lattice`" but easier and more intuitive.
-  - Useful for conditioning plots.
+    - Default mode makes many choices for your.
+    - Highly customizable.
+    - Automatically deals with spacings, text, titles.
+    - Allows annotation by adding to a plot.
+    - Superficial similarity to "`lattice`" but easier and more intuitive.
+    - Useful for conditioning plots.
 - Cons:
-  - None mentioned by Peng.
+    - None mentioned by Peng.
 
 Write R code to make a scatter plot of speed versus distance for the builtin dataset "`cars`", using the Base plotting system.  
 ```r
