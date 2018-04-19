@@ -21,7 +21,7 @@ Describe the principle of analytic graphics, to "show multivariate data".
 Show as much data in a single graphic as you reasonably can, because real data has many dimensions.
 
 Describe the principle of analytic graphics, to "integrate multiple modes of evidence".  
-Avoid putting related info into graphics or tables in different places that are hard to track down and compare. THeir relationships may be easier to visualize and compare If they can reasonably be depicted in one graphic.
+Avoid putting related info into graphics or tables in different places that are hard to track down and compare. Their relationships may be easier to visualize and compare If they can reasonably be depicted in one graphic.
 
 Describe the principle of analytic graphics, to "describe/document credible evidence with appropriate labels/scales/sources/code".  
 Make the analysis easy to understand, using clear labels and scales, and indicating and providing sources (how to obtain raw data) and code (used to generate the graphics).
