@@ -29,12 +29,12 @@ What R command will list currently-open graphics devices?
 dev.list()
 ```
 
-What R command will return the currently-active graphics device?
+What R command will return the currently-active graphics device? 
 ```r
 dev.cur()
 ```
 
-What R command will change the currently-active graphics device?
+What R command will change the currently-active graphics device? 
 ```r
 # Where <integer> is the ID of an open graphics device...
 dev.set(<integer>)
