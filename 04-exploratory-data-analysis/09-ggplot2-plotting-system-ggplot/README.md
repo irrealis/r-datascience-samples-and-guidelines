@@ -4,7 +4,7 @@
 #### Questions, Answers, Exercises:
 
 
-What are the basic components of plot in the ggplot2 plotting system for R?  
+What are the basic components of `plot` in the `ggplot2` plotting system for R?  
 - A **data frame** as input.
 - **aesthetic mappings**: how data are mapped to color, size.
 - **geoms**: geometric objects like points, lines, shapes.
