@@ -18,6 +18,9 @@ Provide and compare graphics for various treatments/conditions, e.g. experimenta
 Describe the principle of analytic graphics, to "explore relationships".  
 (Use graphical comparisons to...) suggest potential causality, mechanisms, or other explanations of potential relationships between variables under various treatments or conditions.
 
+Describe the principle of analytic graphics, to "tease out and show confounders".  
+(Try to...) explain spurious correlations between related variables using confounders.
+
 Describe the principle of analytic graphics, to "show multivariate data".  
 Show as much data in a single graphic as you reasonably can, because real data has many dimensions.
 
