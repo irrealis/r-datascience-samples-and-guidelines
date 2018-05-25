@@ -22,7 +22,7 @@ Describe the principle of analytic graphics, to "tease out and show confounders"
 (Try to...) explain spurious correlations between related variables using confounders.
 
 Describe the principle of analytic graphics, to "show multivariate data".  
-Show as much data in a single graphic as you reasonably can, because real data has many dimensions.
+Show as many variables in a graphic as you reasonably can to help visualize/compare relationships between variables.
 
 Describe the principle of analytic graphics, to "integrate multiple modes of evidence".  
 Avoid putting related info into graphics or tables in different places that are hard to track down and compare. Their relationships may be easier to visualize and compare If they can reasonably be depicted in one graphic.
