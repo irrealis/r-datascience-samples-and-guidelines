@@ -7,3 +7,9 @@
 What are two primary requirements of hierarchical clustering? 
 - Distance metric
 - Merging procedure
+
+
+What are three commonly used distance/similarity metrics? 
+- Euclidean distance
+- Correlation similarity
+- Manhattan distance
