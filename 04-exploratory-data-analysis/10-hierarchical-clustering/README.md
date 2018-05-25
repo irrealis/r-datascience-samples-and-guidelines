@@ -3,3 +3,7 @@
 ### 10 Hierarchical Clustering
 #### Questions and Answers:
 
+
+What are two primary requirements of hierarchical clustering? 
+- Distance metric
+- Merging procedure
