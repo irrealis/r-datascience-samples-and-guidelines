@@ -15,8 +15,8 @@ What are the basic principles of analytic graphics?
 Describe the principle of analytic graphics, to "show comparisons".  
 Provide and compare graphics for various treatments/conditions, e.g. experimental vs. control.
 
-Describe the principle of analytic graphics, to "show systematic structure".  
-Suggest potential causality/mechanism/explanation with graphics of potentially related variables under various treatments or conditions.
+Describe the principle of analytic graphics, to "explore relationships".  
+(Use graphical comparisons to...) suggest potential causality, mechanisms, or other explanations of potential relationships between variables under various treatments or conditions.
 
 Describe the principle of analytic graphics, to "show multivariate data".  
 Show as much data in a single graphic as you reasonably can, because real data has many dimensions.
