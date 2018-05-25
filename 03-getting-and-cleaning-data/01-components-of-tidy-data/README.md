@@ -11,9 +11,9 @@ What are the components of reproducible data?
 
 What criteria must raw data meet?  
 - You ran no software on the raw data.
-- You did not manipulate any of the raw data.
-- You did not remove any of the raw data.
-- You did not add anything to the raw data (in particular, no summary).
+- Nothing was changed.
+- Nothing was removed.
+- Nothing was added. In particular, no summary.
 
 What criteria must tidy data meet?  
 - Each variable has descriptive name and forms a column.
