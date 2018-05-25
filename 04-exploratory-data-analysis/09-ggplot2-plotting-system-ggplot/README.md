@@ -142,6 +142,8 @@ ggplot(mpg) + geom_point(aes(seq_along(hwy), hwy, color = drv))
 
 Write R code to load the builtin "`mpg`" dataset, then boxplot "`hwy`" versus "`mpg`", using "`ggplot`" from the ggplot2 plotting system.  
 ```r
+library(ggplot2)
+data(mpg)
 g <- ggplot(mpg, aes(drv, hwy))
 g + geom_boxplot()
 ```
@@ -149,6 +151,8 @@ g + geom_boxplot()
 
 Write R code to load the builtin "`mpg`" dataset, then boxplot "`hwy`" versus "`mpg`", separating "`manufacturer`" by color, using "`ggplot`" from the ggplot2 plotting system.  
 ```r
+library(ggplot2)
+data(mpg)
 g <- ggplot(mpg, aes(drv, hwy, color = manufacturer))
 g + geom_boxplot()
 ```
