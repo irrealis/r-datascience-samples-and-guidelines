@@ -27,8 +27,8 @@ Show as many variables in a graphic as you reasonably can to help visualize/comp
 Describe the principle of analytic graphics, to "integrate related evidence".  
 To aid visualizing/comparing relationships between variables, avoid putting related graphics/tables in different parts of a presentation/paper.
 
-Describe the principle of analytic graphics, to "describe/document credible evidence with appropriate labels/scales/sources/code".  
-Make the analysis easy to understand, using clear labels and scales, and indicating and providing sources (how to obtain raw data) and code (used to generate the graphics).
+Describe the principle of analytic graphics, to "document evidence and graphics".
+To make the analysis easy to understand: use clear labels/scales; reference data sources; provide or link to raw data, tidy data, and source code used to generate graphics and tidy data.
 
 Describe the principle of analytic graphics, that "content is king".  
 Analytical presentations stand or fall depending on data quality/integrity/relevance. Without an interesting story to tell, no presentation will make it interesting.
