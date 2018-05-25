@@ -12,7 +12,7 @@
 - [08 ggplot2 Plotting System - `qplot`](08-ggplot2-plotting-system-qplot)
 - [09 ggplot2 Plotting System - `ggplot`](09-ggplot2-plotting-system-ggplot)
 - [10 Hierarchical Clustering](10-hierarchical-clustering)
-- [11 K-Means Clustering]
+- [11 K-Means Clustering](11-k-means-clustering)
 - [12 Dimension Reduction - SVD]
 - [13 Dimension Reduction - PCA]
 - [14 Working with Color in R Plots]
