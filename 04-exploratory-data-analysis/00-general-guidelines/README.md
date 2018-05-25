@@ -9,6 +9,10 @@ Broadly, what are the main steps in exploratory data analysis?
 3. Explore relationships between dimensions using scatterplots and smooth extrapolations (generally linear regressions). Look for subsets with different relationships, and separate their scatterplots/extrapolations/regressions using colors or facets.
 
 
+What are the characteristics of good questions to ask of the data? 
+**To Do**
+
+
 What are some things to watch for when exploring individual dimensions? 
 Do the histograms and densities make sense? If not, good place to explore!
 - Are the histograms/densities bell-shaped? poisson-shaped?
