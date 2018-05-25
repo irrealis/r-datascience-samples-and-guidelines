@@ -9,15 +9,15 @@ What are some uses/advantages of exploratory plots?
 - Explore/reject/suggest basic questions/hypotheses.
 - Suggest subsequent modeling strategies.
 
-What are five simple one-dimensional summaries of data useful in exploratory analysis?  
+What are five simple single-variable summaries of data useful in exploratory analysis?  
 - Five-number summary
 - Boxplot and overlay
 - Histogram, rug, and overlay
 - Density plot (kernel density estimation)
-- Barplot
 
-What's a simple two-dimensional summary of data useful in exploratory analysis?  
-Scatterplot.
+What are two simple two-dimensional summaries of data useful in exploratory analysis?  
+- Barplot
+- Scatterplot.
 
 Describe a traditional five-number summary.  
 The traditional five numbers are:
