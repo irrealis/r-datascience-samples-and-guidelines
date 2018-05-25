@@ -27,3 +27,15 @@ d <- dist(df, method="euclidean")
 h <- hclust(d, method="complete")
 plot(h)
 ```
+
+
+Generate a heatmap for the following dataframe: 
+```r
+set.seed(0)
+df <- data.frame(x=rnorm(12, y=rnorm(12))
+plot(df,pch=19,cex=0.3)
+text(df+0.02,labels=as.character(1:12))
+```
+```r
+heatmap(as.matrix(df))
+```
