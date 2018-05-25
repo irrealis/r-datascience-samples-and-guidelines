@@ -30,9 +30,8 @@ What must a code book include?
 - Reasons for censored data.
 
 What criteria must reproducible instructions meet?  
-- Raw input, tidy output.
+- Converts raw input to tidy output.
 - Ideally, provides analysis script taking no parameters.
-- Otherwise, provides specific instructions including:
-  - Separate instructions and exact parameters for each sample and processing stage:
-  - Where to obtain software.
-  - Exact software and OS versions used.
+- Otherwise, provides separate instructions/parameters for each sample/processing stage.
+- Describes where to obtain software used.
+- Describes exact software and OS versions used.
