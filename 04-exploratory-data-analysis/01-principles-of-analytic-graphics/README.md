@@ -31,4 +31,8 @@ Describe the principle of analytic graphics, to "document evidence and graphics"
 To make the analysis easy to understand: use clear labels/scales; reference data sources; provide or link to raw data, tidy data, and source code used to generate graphics and tidy data.
 
 Describe the principle of analytic graphics, that "content is king".  
-Analytical presentations stand or fall depending on data quality/integrity/relevance. Without an interesting story to tell, no presentation will make it interesting.
+Interesting stories, analyses, and presentations require data credibility, integrity, quality, relevance.
+- Credibility: believability of data source.
+- Integrity: how well the raw data is preserved.
+- Quality: how well the tidy data meets the needs of the required analysis.
+- Relevance: how well the data analysis answers your questions.
