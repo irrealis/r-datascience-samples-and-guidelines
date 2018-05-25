@@ -40,7 +40,7 @@ What are pros and cons of the "`lattice`" plotting system in R?
     - Use of panel functions and subscripts is unwieldy, requires intense prep.
     - Cannot "add" to plot once created.
 
-What are pros and cons of the "`lattice`" plotting system in R?  
+What are pros and cons of the "`ggplot2`" plotting system in R?  
 - Pros:
     - Default mode makes many choices for your.
     - Highly customizable.
