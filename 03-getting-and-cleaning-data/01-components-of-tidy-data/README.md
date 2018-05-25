@@ -16,13 +16,11 @@ What criteria must raw data meet?
 - Nothing was added. In particular, no summary.
 
 What criteria must tidy data meet?  
-- Each variable has descriptive name and forms a column.
-- Each observation forms a row.
-- Each type of observational unit forms a table and file.
-- Multiple tables have join columns.
-- Handling of missing/censored data:
-  - Missing/censored data is coded as "`NA`".
-  - Censored data is coded as "`T`" in added "`Censored`" column.
+- One variable per column. Descriptive column names.
+- One observation per row.
+- One observational unit per table & file. Multiple tables require join columns.
+- Missing data coded as "`NA`".
+- Censored data coded as "`NA`" with "`T`" in added "`Censored`" column.
 
 What must a code book include?  
 - Variable names, data types, units.
