@@ -5,11 +5,12 @@
 
 What are the basic principles of analytic graphics?  
 1. Show comparisons.
-2. Show systematic structure (causality/mechanism/explanation).
-3. Show multivariate data (e.g., tease out and show confounders).
-4. Integrate multiple modes of evidence (words/numbers/images/diagrams).
-5. Describe/document credible evidence with appropriate labels/scales/sources/code/etc.
-6. Content (quality/relevance/integrity) is king.
+2. Explore relationships.
+3. Tease out and show confounders.
+4. Show multivariate data.
+5. Integrate related evidence.
+6. Document evidence and graphics.
+7. Content is king.
 
 Describe the principle of analytic graphics, to "show comparisons".  
 Provide multiple graphics for various treatments or conditions, such as experimental versus control.
