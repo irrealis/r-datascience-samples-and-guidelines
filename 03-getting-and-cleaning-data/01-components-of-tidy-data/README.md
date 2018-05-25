@@ -23,10 +23,11 @@ What criteria must tidy data meet?
 - Censored data coded as "`NA`" with "`T`" in added "`Censored`" column.
 
 What must a code book include?  
-- Variable names, data types, units.
-- Info about study design and data-collection procedures used.
-- Info about summary choices made.
-- Reason for any censored data.
+- Variable names/datatypes/units.
+- Study design used.
+- Data-collection procedures used.
+- Summary choices made.
+- Reasons for censored data.
 
 What criteria must reproducible instructions meet?  
 - Raw input, tidy output.
