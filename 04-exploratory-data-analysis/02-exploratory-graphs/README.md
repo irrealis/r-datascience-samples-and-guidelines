@@ -3,11 +3,11 @@
 ### 02 Exploratory Graphs
 #### Questions, Answers, Exercises:
 
-What are some advantages of exploratory plots?  
-- They're quick and dirty.
-- They quickly summarize data, highlighting broad features.
-- They explore basic questions/hypotheses (perhaps rule them out).
-- They suggest subsequent modeling strategies.
+What are some uses/advantages of exploratory plots?  
+- Quick and dirty.
+- Summarize data, highlighting broad features.
+- Explore/reject/suggest basic questions/hypotheses.
+- Suggest subsequent modeling strategies.
 
 What are five simple one-dimensional summaries of data useful in exploratory analysis?  
 - Five-number summary
