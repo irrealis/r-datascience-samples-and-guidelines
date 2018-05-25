@@ -5,7 +5,10 @@
 
 Write R code to test whether directory "fubar" exists.  
 ```R
+dir.exists("fubar")
+# Before above was available, people used:
 file.exists("fubar")
+# ...but this doesn't distinguish files and directories.
 ```
 
 Write R code to create directory "fubar".  
