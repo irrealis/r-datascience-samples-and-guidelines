@@ -21,3 +21,17 @@ What are some things to avoid in order to ensure reproducibility?
 
 - DON'T do things by hand.
 - DON'T save irreproducible output.
+
+
+
+What is meant by _DO start with good science_?
+
+- Garbage in, garbage out.
+- Try to start with coherent, focused questions.
+    - They simplify many problems.
+    - They can rule out possibilities/approaches/data/variables... you don't care about.
+    - Vague questions tend to bloat complexity and to-do lists.
+- Try to work with collaborators you like/admire/respect/work well with.
+- Try to work on interesting problems.
+    - That interest you.
+    - That you think may interest others.
