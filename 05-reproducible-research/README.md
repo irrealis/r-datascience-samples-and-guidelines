@@ -6,7 +6,7 @@
   - Should include "Reproducible Research Checklist"
 - [01 Concepts and Ideas]
 - [02 Scripting Your Analysis]
-- [03 Structure of a Data Analysis]
+- [03 Structure of a Data Analysis](03-structure-of-a-data-analysis/)
 - [04 Organizing Your Analysis]
 - [05 Coding Standards in R]
 - [06 Markdown]
