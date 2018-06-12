@@ -35,3 +35,12 @@ What is meant by _DO start with good science_?
 - Try to work on interesting problems.
     - That interest you.
     - That you think may interest others.
+
+
+
+What is meant by _DO teach a computer_?
+
+- If something needs to be done for a project, try to script or code it.
+    - Even if you only need to do it once.
+- Makes you say exactly what you mean to do, and how.
+- Almost guarantees reproducibility/auditability.
