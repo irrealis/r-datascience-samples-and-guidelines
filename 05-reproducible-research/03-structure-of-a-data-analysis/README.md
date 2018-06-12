@@ -49,3 +49,12 @@ Depends on your goal.
     - Requires carefully-selected sampling method.
 - Predictive: requires training and testing subsets from the same population.- Causal: requires experimental data from a randomized study.
 - Mechanistic: requires data about all components of the system.
+
+
+
+What are some ways to obtain data?
+
+- Mine the Web for free.
+- If you can't find it for free, buy the data.
+- If you can't buy the data, design and run a study to generate the data.
+- If you can't generate the data, settle for a less-than-ideal dataset.
