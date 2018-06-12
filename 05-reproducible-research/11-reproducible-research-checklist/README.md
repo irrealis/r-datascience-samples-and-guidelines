@@ -54,3 +54,16 @@ What is meant by _DO use version control_?
 - Try to commit in small chunks.
 - Avoid massive commits.
 - Tends to slow things down enough to reduce mistakes.
+
+
+
+What is meant by _DO track your software environment_?
+
+- Can be critical for reproducing complex projects.
+- Some components:
+    - Computer architecture (CPUs/GPUs/...)
+    - Operating system (Linux/macOS/Windows/...)
+    - Software toolchain (compilers/interpreters/shells/languages/databases/analysis-software/...)
+    - Internal dependencies (libraries/packages/...)
+    - External dependencies (websites/repos/repos/remote-dbs/...)
+    - Versions for all of the above.
