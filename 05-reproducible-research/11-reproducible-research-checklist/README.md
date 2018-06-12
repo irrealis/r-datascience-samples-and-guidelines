@@ -67,3 +67,10 @@ What is meant by _DO track your software environment_?
     - Internal dependencies (libraries/packages/...)
     - External dependencies (websites/repos/repos/remote-dbs/...)
     - Versions for all of the above.
+
+
+
+What is meant by _DO set your seed_?
+
+- Setting random number generator seeds allows exactly reproducing random number streams.
+- Critical for reproducing experiments with "random" components.
