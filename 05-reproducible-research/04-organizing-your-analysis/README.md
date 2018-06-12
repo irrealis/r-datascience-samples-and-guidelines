@@ -101,3 +101,12 @@ What characterizes markup files?
 
 - Used to generate reports.
 - Can be used in literate style for reproducibility.
+
+
+
+What characterizes README files?
+
+- Contains step-by-step instructions to reproduce analysis.
+    - Not needed if literate style is used to generate analysis.
+- Cites data sources.
+- For webmined data, also gives access date, URL, and description.
