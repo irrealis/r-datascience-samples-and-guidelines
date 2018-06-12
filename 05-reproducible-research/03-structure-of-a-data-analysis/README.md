@@ -27,3 +27,11 @@ What characterizes good questions for data analyis?
 - The questions are focused and concrete.
 - The questions lead to required data.
 - Required data lead to applied statistics.
+
+
+
+What are the benefits of focused, concrete questions for data analysis?
+
+- They allow identifying/discarding data/variables that aren't pertinent.
+    - This reduces noise in subsequent analyses.
+- They reduce the search space for finding answers.
