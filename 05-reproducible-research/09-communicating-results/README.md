@@ -23,3 +23,22 @@ What are the "SI" rules for getting email reponses from busy (Successful/Importa
 - Try to be as specific as possible while conforming to the above.
 - For time-sensitive topics, state default actions you'll take, and when.
 - Bonus: include obvious search times for later locating your email.
+
+
+
+What is a good general hierarchy for email presentations?
+
+- Subject line is mandatory. Try to summarize findings in one sentence.
+
+- Body:
+    - Brief description, 1-2 paragraphs, of problem/context, and summarizing findings/results.
+    - If action must be taken, suggest options as concretely as possible.
+    - If questions must be answered, try to make them yes/no.
+
+- Attachments:
+    - Be concise.
+    - Try to generate from literate markup.
+
+- Links to any supplementary materials:
+    - Code/software/data.
+    - Github repos or project websites.
