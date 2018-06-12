@@ -84,3 +84,12 @@ What are some important things to do when cleaning data?
     - obtain more or different data;
     - or try a different question;
     - or quit -- continuing with bad data can lead to inappropriate inferences/conclusions.
+
+
+
+What are some general steps for exploratory analyses?
+
+- Look at data summaries.
+- Check for missing data.
+- Create exploratory plots.
+- Perform exploratory analyses (e.g. clustering)
