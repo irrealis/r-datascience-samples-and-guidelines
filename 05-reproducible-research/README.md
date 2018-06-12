@@ -14,6 +14,8 @@
 - [08 knitr]
 - [09 Communicating Results](09-communicating-results/)
 - [10 RPubs]
-- [11 Evidence-Based Data Analysis]
-- [12 Caching Computations]
-- [13 Commentaries on Data Analysis]
+- [11 Reproducible Research Checklist](11-reproducible-research-checklist/)
+- [12 Evidence-Based Data Analysis]
+- [13 Caching Computations]
+- [14 Commentaries on Data Analysis]
+
