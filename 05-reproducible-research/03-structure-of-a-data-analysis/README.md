@@ -35,3 +35,17 @@ What are the benefits of focused, concrete questions for data analysis?
 - They allow identifying/discarding data/variables that aren't pertinent.
     - This reduces noise in subsequent analyses.
 - They reduce the search space for finding answers.
+
+
+
+What characterizes the ideal dataset for your data analysis?
+
+Depends on your goal.
+
+- Descriptive analysis: requires an entire population.
+- Exploratory analysis: requires a random sample measuring many variables.
+- Inferential analysis: requires a random sample of the right population.
+    - Requires carefully-selected population.
+    - Requires carefully-selected sampling method.
+- Predictive: requires training and testing subsets from the same population.- Causal: requires experimental data from a randomized study.
+- Mechanistic: requires data about all components of the system.
