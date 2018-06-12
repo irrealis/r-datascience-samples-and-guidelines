@@ -141,3 +141,22 @@ How and why should you challenge your results?
     - Maybe useful in different ways.
     - Maybe produce better predictions.
 - Have reasonable answers so when someone asks, you can respond.
+
+
+
+What are some guidelines for synthesizing results and a write-up?
+
+- **Tell a coherent story.**
+- Lead with the question.
+  - Helps people mentally establish context.
+- Questions lead to data and analyses:
+  - What kinds are appropriate for this question?
+- Summarize the analyses into the story.
+	- Winnow what you did down to the most important aspects.
+  - Don't include every analysis. Critera for inclusion:
+    - If it is needed for the story.
+    - If it is needed to address a challenge.
+- Keep all analyses in back pocket in case challenged.
+  - "Did that analyses, but it was problematic because..."
+- Order analyses according to the story, rather than chronologically.
+- Include "pretty" figures that contribute to the story.
