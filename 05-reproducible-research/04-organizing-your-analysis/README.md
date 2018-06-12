@@ -110,3 +110,18 @@ What characterizes README files?
     - Not needed if literate style is used to generate analysis.
 - Cites data sources.
 - For webmined data, also gives access date, URL, and description.
+
+
+
+What characterizes writeups?
+
+- Includes:
+    - Title
+    - Introduction (motivation)
+    - Methods
+    - Results (including measures of uncertainty)
+    - Conclusions (including potential problems)
+- Tells a story.
+- _Does not include every analysis performed._
+- References included for statistical methods.
+    - Including software/implementation details.
