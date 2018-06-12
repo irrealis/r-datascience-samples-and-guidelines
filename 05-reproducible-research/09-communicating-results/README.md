@@ -42,3 +42,25 @@ What is a good general hierarchy for email presentations?
 - Links to any supplementary materials:
     - Code/software/data.
     - Github repos or project websites.
+
+
+
+What is a good general hierarchy for a research paper?
+
+- Title and authors:
+    - What paper's about.
+    - Overview without detail.
+    - Make it interesting.
+
+- Abstract:
+    - What motivates problem?
+    - How was it addressed/solved?
+    - Bottom-line results.
+
+- Minimal body:
+    - Methods
+    - Results
+    - References
+
+- Supplementary materials: gory details
+- Code/software/data: really gory details
