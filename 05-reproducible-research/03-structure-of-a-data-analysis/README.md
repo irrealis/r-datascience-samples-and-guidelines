@@ -58,3 +58,13 @@ What are some ways to obtain data?
 - If you can't find it for free, buy the data.
 - If you can't buy the data, design and run a study to generate the data.
 - If you can't generate the data, settle for a less-than-ideal dataset.
+
+
+What are some important things to do when obtaining data?
+
+- Obtain raw data.
+    - Polite emails go a long way.
+- Note and reference the source.
+- When mining Web data:
+    - Respect the terms of use.
+    - Record URLs and access times when downloaded.
