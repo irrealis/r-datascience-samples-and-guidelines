@@ -93,3 +93,17 @@ What are some general steps for exploratory analyses?
 - Check for missing data.
 - Create exploratory plots.
 - Perform exploratory analyses (e.g. clustering)
+
+
+
+What are some general steps for statistical prediction/modeling?
+
+- Should be informed by:
+  - The questions of interest
+  - Results of exploratory analysis
+- Exact methods depend on the question of interest
+- Prediction: prep to build a model for classification:
+	- Subsample to generate test and training sets.
+- Transformations/processing should be accounted for when necessary
+- Measures of uncertainty should be reported
+- What are the sources of uncertainty?
