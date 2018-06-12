@@ -107,3 +107,17 @@ What are some general steps for statistical prediction/modeling?
 - Transformations/processing should be accounted for when necessary
 - Measures of uncertainty should be reported
 - What are the sources of uncertainty?
+
+
+
+What are some general guidelines to follow when interpreting results?
+
+- **Use appropriate language.** Don't use language going beyond the analysis that was performed:
+  - "describes"
+  - "correlates with"/"associated with"
+  - "leads to"/"causes"
+  - "predicts"
+- Explain why certain models predict better than others.
+- Interpret coefficients
+- Interpret measures of uncertainty.
+- Use uncertainty measures to calibrate interpretation of final results.
