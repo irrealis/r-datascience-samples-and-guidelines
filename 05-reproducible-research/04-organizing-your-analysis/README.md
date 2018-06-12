@@ -37,3 +37,18 @@ What characterizes the raw data of an analysis?
         - The URL used to access the raw data.
         - The date the data was accessed.
 - Following the tidy-data rule, it has not been altered since obtained.
+
+
+
+What characterizes the processed data of an analysis?
+
+- Named so it's easy to see which script generated which processed data.
+    - The script -> data mapping is described in README.
+- Follows tidy rules:
+    - One table per file.
+    - One variable per column.
+    - One observation per row.
+    - Related tables associated via join columns.
+    - Missing data coded with `NA`.
+    - Censored data coded with `NA`, and also with `T` in added `censored` column.
+    - Described in accompanying codebook.
