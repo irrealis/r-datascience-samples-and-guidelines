@@ -121,3 +121,23 @@ What are some general guidelines to follow when interpreting results?
 - Interpret coefficients
 - Interpret measures of uncertainty.
 - Use uncertainty measures to calibrate interpretation of final results.
+
+
+
+How and why should you challenge your results?
+
+- _If you don't do this, someone else will._ Get a step ahead of everyone by doing it yourself first.
+- Challenge all steps:
+  - Question
+    - Is it even valid?
+  - Data source (where from, how obtained)
+  - Processing (how done)
+  - Analysis (how done)
+  - Conclusions (how drawn, how solid)
+  - Measures of uncertainty (do you have any?)
+  - Models (why they're appropriate, choices of terms included, why some are better)
+  - **What good is it?**
+  - Think of potential alternative analyses.
+    - Maybe useful in different ways.
+    - Maybe produce better predictions.
+- Have reasonable answers so when someone asks, you can respond.
