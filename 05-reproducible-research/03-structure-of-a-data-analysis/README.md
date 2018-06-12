@@ -68,3 +68,19 @@ What are some important things to do when obtaining data?
 - When mining Web data:
     - Respect the terms of use.
     - Record URLs and access times when downloaded.
+
+
+
+What are some important things to do when cleaning data?
+
+- Understand the data source (census, sample, convenience sample, etc.)
+- Understand any upstream preprocessing.
+- Process data following tidy-data rules; in particular, be ready to provide to others:
+    - The unaltered raw data.
+    - The tidy data.
+    - Scripts used to process the raw data into the tidy data.
+    - Code books describing the tidy data.
+- Determine whether the data are good enough. If not:
+    - obtain more or different data;
+    - or try a different question;
+    - or quit -- continuing with bad data can lead to inappropriate inferences/conclusions.
