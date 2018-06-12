@@ -62,3 +62,16 @@ What characterizes the exploratory figures of an analysis?
 - Useful enough that you know what's going on.
 - Often not used in final report.
 - Reproducible.
+
+
+
+What characterizes the final figures of an analysis?
+
+- Polished, organized,  readable.
+    - Careful axes, colors, annotations used to make figure clear.
+- Possibly multiple panels.
+- Usually small subset of original figures.
+    - Typically 4-5 max are used in published papers.
+        - They take lots of space.
+        - Don't want to inundate people -- they'll get lost.
+- Reproducible.
