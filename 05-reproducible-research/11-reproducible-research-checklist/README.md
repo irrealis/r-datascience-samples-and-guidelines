@@ -74,3 +74,10 @@ What is meant by _DO set your seed_?
 
 - Setting random number generator seeds allows exactly reproducing random number streams.
 - Critical for reproducing experiments with "random" components.
+
+
+
+What is meant by _DO think about the entire pipeline_?
+
+- Large projects have many steps.
+- For reproducibility, how to produce end results is just as important as the results themselves.
