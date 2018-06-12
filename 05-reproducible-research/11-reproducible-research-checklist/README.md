@@ -13,3 +13,11 @@ What are some things to try to do in order to ensure reproducibility?
 - DO track your software environment.
 - DO set your seed.
 - DO think about the entire pipeline.
+
+
+
+'Overview'
+What are some things to avoid in order to ensure reproducibility?
+
+- DON'T do things by hand.
+- DON'T save irreproducible output.
