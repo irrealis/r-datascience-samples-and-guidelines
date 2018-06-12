@@ -52,3 +52,13 @@ What characterizes the processed data of an analysis?
     - Missing data coded with `NA`.
     - Censored data coded with `NA`, and also with `T` in added `censored` column.
     - Described in accompanying codebook.
+
+
+
+What characterizes the exploratory figures of an analysis?
+
+- Any relevant figures generated during exploration.
+- Quick, rough, unpolished.
+- Useful enough that you know what's going on.
+- Often not used in final report.
+- Reproducible.
