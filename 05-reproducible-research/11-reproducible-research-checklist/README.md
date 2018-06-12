@@ -44,3 +44,13 @@ What is meant by _DO teach a computer_?
     - Even if you only need to do it once.
 - Makes you say exactly what you mean to do, and how.
 - Almost guarantees reproducibility/auditability.
+
+
+
+What is meant by _DO use version control_?
+
+- It's easy to publish results with GitHub/BitBucket/SourceForge/etcetera.
+- Track and tag snapshots; simplifies reverting to old versions.
+- Try to commit in small chunks.
+- Avoid massive commits.
+- Tends to slow things down enough to reduce mistakes.
