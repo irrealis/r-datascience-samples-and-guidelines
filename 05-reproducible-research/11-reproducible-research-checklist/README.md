@@ -116,3 +116,13 @@ What is meant by _DON'T do things by hand_?
 
 - Mitigated by thorough, accurate documentation; but must be reproduced by-hand.
 - Solved by _DO teach a computer_.
+
+
+
+What is meant by _DON'T save irreproducible output_?
+
+- If stray output can't be easily connected with the means by which it was created, then it is irreproducible.
+- Instead of saving output, save the code and data used to produce it.
+- Caches and intermediates:
+    - Fine as long as there's code and data to reproduce it.
+    - Irreproducibility is mitigated by thorough, accurate documentation; but must be reproduced by-hand.
