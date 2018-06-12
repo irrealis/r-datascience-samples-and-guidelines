@@ -84,3 +84,13 @@ What characterizes the rough code of an analysis?
     - The more comments, the better...
 - Maybe multiple versions.
 - Maybe includes discarded analyses, dead ends, etc.
+
+
+
+What characterizes the final code of an analysis?
+
+- Clearly commented:
+    - Small comments liberally: what, when, why, how.
+    - Block comments for whole sections.
+- Includes processing details.
+- Only for analyses used in final writeup.
