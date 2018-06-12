@@ -18,3 +18,12 @@ What are the typical steps of a data analysis?
 - Challenge results.
 - Synthesize/write up results.
 - Create reproducible code.
+
+
+
+What characterizes good questions for data analyis?
+
+- Science generally determines the questions.
+- The questions are focused and concrete.
+- The questions lead to required data.
+- Required data lead to applied statistics.
