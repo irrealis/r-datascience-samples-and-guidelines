@@ -7,7 +7,7 @@
 - [01 Concepts and Ideas]
 - [02 Scripting Your Analysis]
 - [03 Structure of a Data Analysis](03-structure-of-a-data-analysis/)
-- [04 Organizing Your Analysis]
+- [04 Organizing Your Analysis](04-organizing-your-analysis/)
 - [05 Coding Standards in R]
 - [06 Markdown]
 - [07 R Markdown]
