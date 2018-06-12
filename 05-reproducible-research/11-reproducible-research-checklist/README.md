@@ -81,3 +81,38 @@ What is meant by _DO think about the entire pipeline_?
 
 - Large projects have many steps.
 - For reproducibility, how to produce end results is just as important as the results themselves.
+
+
+
+What is meant by _DON'T do things by hand_?
+
+- By-hand work is where most:
+      - irreproducibility occurs.
+      - mistakes occur.
+      - audit trails are lost.
+      - investigations are likely to get tripped up.
+- Examples:
+    - Cleaning up spreadsheets:
+        - Removing outliers
+        - QA/QC
+        - Validating
+        - ...
+    - Editing tables or figures:
+        - Rounding
+        - Reformatting
+        - Seems innocuous but can trigger major problems.
+    - Downloading data from a website (clicking links in a browser):
+        - Telling somebody else how to reproduce can be difficult.
+    - Transforming data:
+        - Moving it around your filesystem
+        - Splitting data files
+        - Reformatting data files
+    - Work in point-and-click GUIs
+        - Hard to describe.
+        - Hard to document.
+        - Hard to reproduce.
+    - "We're only doing this once..."
+    - "It's faster to do by hand..."
+
+- Mitigated by thorough, accurate documentation; but must be reproduced by-hand.
+- Solved by _DO teach a computer_.
