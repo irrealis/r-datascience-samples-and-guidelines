@@ -12,7 +12,7 @@
 - [06 Markdown]
 - [07 R Markdown]
 - [08 knitr]
-- [09 Communicating Results]
+- [09 Communicating Results](09-communicating-results/)
 - [10 RPubs]
 - [11 Evidence-Based Data Analysis]
 - [12 Caching Computations]
