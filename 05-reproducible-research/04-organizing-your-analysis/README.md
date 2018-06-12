@@ -94,3 +94,10 @@ What characterizes the final code of an analysis?
     - Block comments for whole sections.
 - Includes processing details.
 - Only for analyses used in final writeup.
+
+
+
+What characterizes markup files?
+
+- Used to generate reports.
+- Can be used in literate style for reproducibility.
