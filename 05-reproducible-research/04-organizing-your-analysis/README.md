@@ -75,3 +75,12 @@ What characterizes the final figures of an analysis?
         - They take lots of space.
         - Don't want to inundate people -- they'll get lost.
 - Reproducible.
+
+
+
+What characterizes the rough code of an analysis?
+
+- Maybe less well-commented.
+    - The more comments, the better...
+- Maybe multiple versions.
+- Maybe includes discarded analyses, dead ends, etc.
